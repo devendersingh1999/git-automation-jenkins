@@ -2,7 +2,7 @@ pipeline{
     agent any
 
     environment{
-        GIT_CRED: 'ci-app-token'
+        GIT_CRED: 'ci-app-token',
         GIT_URL: 'https://github.com/devendersingh1999/git-automation-jenkins.git'
     }
 
