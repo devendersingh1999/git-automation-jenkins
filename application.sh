@@ -4,5 +4,3 @@ echo "this is new feature"
 echo "this is code on breaking-change branch"
 echo "this automation is working perfect"
 
-echo "this is code on breaking-change branch"
-echo "this automation is working perfect"
