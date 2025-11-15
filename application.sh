@@ -5,19 +5,5 @@ echo "sdajnbcfjashndufhcuasdnhjkfcnsd
 
 sdfnjsandf
 sdafnjsa
-
-
-sdfjj
-
-
-
-asdfsa
-
-sdf
-
-
-
-sdfsad
-
-sdaf"
+"
 
